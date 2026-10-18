@@ -1,0 +1,61 @@
+{
+  "archive": "World Bank course-linked 2021 archive",
+  "archive_last_updated": "2021-09-15",
+  "region": "Sub-Saharan Africa",
+  "region_code": "SSF",
+  "period": [
+    1990,
+    2018
+  ],
+  "threshold": "$1.90 per person per day, 2011 PPP",
+  "repository": "https://github.com/light-and-salt/World-Bank-Data-by-Indicators",
+  "files": [
+    {
+      "name": "poverty/poverty.csv",
+      "url": "https://github.com/light-and-salt/World-Bank-Data-by-Indicators/blob/master/poverty/poverty.csv",
+      "sha256": "2d29580ac11e14bdd90079a10b212883e1fcc2cb9e7c9161264b8aa957613e44"
+    },
+    {
+      "name": "health/health.csv",
+      "url": "https://github.com/light-and-salt/World-Bank-Data-by-Indicators/blob/master/health/health.csv",
+      "sha256": "1e4dc764a770229a91f286834450cb15136d971e09efb082d981867d6c70ab75"
+    }
+  ],
+  "indicators": [
+    {
+      "INDICATOR_CODE": "SI.POV.GAPS",
+      "INDICATOR_NAME": "Poverty gap at $1.90 a day (2011 PPP) (%)",
+      "SOURCE_NOTE": "Poverty gap at $1.90 a day (2011 PPP) is the mean shortfall in income or consumption from the poverty line $1.90 a day (counting the nonpoor as having zero shortfall), expressed as a percentage of the poverty line. This measure reflects the depth of poverty as well as its incidence. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.",
+      "SOURCE_ORGANIZATION": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm)."
+    },
+    {
+      "INDICATOR_CODE": "SI.POV.DDAY",
+      "INDICATOR_NAME": "Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population)",
+      "SOURCE_NOTE": "Poverty headcount ratio at $1.90 a day is the percentage of the population living on less than $1.90 a day at 2011 international prices. As a result of revisions in PPP exchange rates, poverty rates for individual countries cannot be compared with poverty rates reported in earlier editions.",
+      "SOURCE_ORGANIZATION": "World Bank, Development Research Group. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are from the Luxembourg Income Study database. For more information and methodology, please see PovcalNet (http://iresearch.worldbank.org/PovcalNet/index.htm)."
+    },
+    {
+      "INDICATOR_CODE": "SP.POP.TOTL",
+      "INDICATOR_NAME": "Population, total",
+      "SOURCE_NOTE": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+      "SOURCE_ORGANIZATION": "(1) United Nations Population Division. World Population Prospects: 2019 Revision. (2) Census reports and other statistical publications from national statistical offices, (3) Eurostat: Demographic Statistics, (4) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (5) U.S. Census Bureau: International Database, and (6) Secretariat of the Pacific Community: Statistics and Demography Programme."
+    }
+  ],
+  "derived_formulas": {
+    "estimated_poor": "poverty_rate_pct / 100 * population",
+    "estimated_at_or_above_line": "population - estimated_poor",
+    "estimated_mean_shortfall_among_poor_pct": "poverty_gap_pct / poverty_rate_pct * 100",
+    "relative_change_pct": "(2018 / 1990 - 1) * 100",
+    "percentage_point_change": "2018 percentage - 1990 percentage"
+  },
+  "limitations": [
+    "The archive uses $1.90/day in 2011 PPP terms. It is a historical 2021 snapshot, not the current poverty-line edition or a claim about 2026.",
+    "Headcounts are approximate: the archived percentage has only one decimal place, and the population is a midyear estimate. No uncertainty interval is supplied.",
+    "The regional code is SSF (all Sub-Saharan Africa), not SSA (excluding high-income economies). These cannot be silently interchanged.",
+    "Regional averages hide country differences; the series do not identify which policies caused changes.",
+    "Lower rates and higher counts are both true. A higher headcount challenges the meaning of substantial progress, but cannot logically erase the improvement in the poverty rate.",
+    "The poverty-gap index counts nonpoor shortfalls as zero; it is not a percentage of people and not a mean restricted to poor people.",
+    "FOR 2 instead derives the mean proportional shortfall among poor residents as poverty-gap index / poverty rate x 100. This ratio is also approximate because its two inputs are rounded.",
+    "The people below the line can differ between years. Conditional shortfall is not a longitudinal measure of the same people."
+  ]
+}

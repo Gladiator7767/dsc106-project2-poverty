@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="363.6pt" viewBox="0 0 720 363.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T16:38:38.513184</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 363.6 
+L 720 363.6 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 234 278.154 
+L 586.8 278.154 
+L 586.8 103.626 
+L 234 103.626 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 234 278.154 
+L 234 103.626 
+" clip-path="url(#pda204cf552)" style="fill: none; stroke: #e3e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53646c" x="234" y="294.891305" transform="rotate(-0 234 294.891305)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 342.553846 278.154 
+L 342.553846 103.626 
+" clip-path="url(#pda204cf552)" style="fill: none; stroke: #e3e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53646c" x="342.553846" y="294.891305" transform="rotate(-0 342.553846 294.891305)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 451.107692 278.154 
+L 451.107692 103.626 
+" clip-path="url(#pda204cf552)" style="fill: none; stroke: #e3e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53646c" x="451.107692" y="294.891305" transform="rotate(-0 451.107692 294.891305)">40%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 559.661538 278.154 
+L 559.661538 103.626 
+" clip-path="url(#pda204cf552)" style="fill: none; stroke: #e3e9ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53646c" x="559.661538" y="294.891305" transform="rotate(-0 559.661538 294.891305)">60%</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 234 139.205742 
+L 533.065846 139.205742 
+L 533.065846 118.981468 
+L 234 118.981468 
+z
+" clip-path="url(#pda204cf552)" style="fill: #82939b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 234 229.091408 
+L 479.280469 229.091408 
+L 479.280469 208.867133 
+L 234 208.867133 
+z
+" clip-path="url(#pda204cf552)" style="fill: #82939b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 234 167.669536 
+L 453.278769 167.669536 
+L 453.278769 147.445262 
+L 234 147.445262 
+z
+" clip-path="url(#pda204cf552)" style="fill: #146d68"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 234 257.555202 
+L 438.210206 257.555202 
+L 438.210206 237.330927 
+L 234 237.330927 
+z
+" clip-path="url(#pda204cf552)" style="fill: #146d68"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 234 278.154 
+L 586.8 278.154 
+" style="fill: none; stroke: #aab9c0; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53646c" x="225.858462" y="132.028957" transform="rotate(-0 225.858462 132.028957)">1990</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #146d68" x="225.858462" y="160.492751" transform="rotate(-0 225.858462 160.492751)">2018</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="538.493538" y="132.340675" transform="rotate(-0 538.493538 132.340675)">55.1%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #146d68" x="458.706462" y="160.804469" transform="rotate(-0 458.706462 160.804469)">40.4%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #146d68" transform="translate(591.38854 138.900678)">26.7%</text>
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #146d68" transform="translate(593.624946 154.504233)">lower</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #53646c" x="225.858462" y="221.914622" transform="rotate(-0 225.858462 221.914622)">1990</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11.3px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #146d68" x="225.858462" y="250.378416" transform="rotate(-0 225.858462 250.378416)">2018</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="484.708161" y="222.226341" transform="rotate(-0 484.708161 222.226341)">45.2%</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #146d68" x="443.637898" y="250.690135" transform="rotate(-0 443.637898 250.690135)">37.6%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #146d68" transform="translate(591.38854 228.786343)">16.7%</text>
+    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; fill: #146d68" transform="translate(593.624946 244.389898)">lower</text>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #146d68" x="32.4" y="16.362" transform="rotate(-0 32.4 16.362)">THE CASE FOR PROGRESS</text>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #20323d" x="32.4" y="49.086" transform="rotate(-0 32.4 49.086)">Poverty fell in both frequency and depth</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="32.4" y="71.6292" transform="rotate(-0 32.4 71.6292)">Sub-Saharan Africa, 1990 vs. 2018 | Historical $1.90/day line (2011 PPP)</text>
+  </g>
+  <g id="text_18">
+   <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #20323d" x="32.4" y="141.0768" transform="rotate(-0 32.4 141.0768)">Poverty rate</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="32.4" y="155.6208" transform="rotate(-0 32.4 155.6208)">% of total population</text>
+  </g>
+  <g id="text_20">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(32.4 215.277375)">Mean shortfall</text>
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #20323d" transform="translate(32.4 229.068)">among the poor</text>
+  </g>
+  <g id="text_21">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="32.4" y="243.612" transform="rotate(-0 32.4 243.612)">% of the poverty line</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #53646c" x="614.16" y="98.5356" transform="rotate(-0 614.16 98.5356)">Relative decline</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="32.4" y="321.786" transform="rotate(-0 32.4 321.786)">Mean shortfall = poverty-gap index / poverty rate x 100. Lower values mean less poverty.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10.4px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="32.4" y="339.2388" transform="rotate(-0 32.4 339.2388)">Each year describes its own population; these are not the same people tracked over time.</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #53646c" x="32.4" y="356.328" transform="rotate(-0 32.4 356.328)">Source: World Bank course archive (2021); SSF; SI.POV.DDAY and SI.POV.GAPS. Inputs are rounded.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pda204cf552">
+   <rect x="234" y="103.626" width="352.8" height="174.528"/>
+  </clipPath>
+ </defs>
+</svg>
